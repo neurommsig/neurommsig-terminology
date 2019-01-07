@@ -24,7 +24,8 @@ project.
 2. Epilepsy Terminology (EPT)
 3. Neuroimaging Feature Terminology (NIFT)
 4. Multi-modal Signatures of Neurodegenerative Disease (NEUROMMSIG)
-5. Pathway Terminology System (PTS)
+5. Parkinson's Disease Ontology (PDO)
+6. Pathway Terminology System (PTS)
 
 ## Contributing
 
