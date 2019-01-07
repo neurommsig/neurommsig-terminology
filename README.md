@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   NeuroMMSig Terminology
-  </a>
+  <a href="https://zenodo.org/badge/latestdoi/164427356"><img src="https://zenodo.org/badge/164427356.svg" alt="DOI"></a>
   <br>
 </h1>
 
