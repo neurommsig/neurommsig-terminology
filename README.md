@@ -13,7 +13,9 @@ project.
 
 <p align="center">
   <a href="#contents">Contents</a> •
-  <a href="#contributing">Contributing</a>
+  <a href="#contributing">Contributing</a> •
+  <a href="#contributing">License</a> •
+  <a href="#contributing">Citation</a>
 </p>
 
 ## Contents
@@ -27,3 +29,15 @@ project.
 ## Contributing
 
 Contributions are welcome! Please submit all pull requests to https://github.com/neurommsig/neurommsig-terminology.
+
+## License
+
+Content in this repository is licensed under CC BY 4.0.
+
+## Citation
+
+If you find this content useful in your work, please consider citing:
+
+Domingo-Fernández, D., *et al.* (2017). [Multimodal mechanistic signatures for neurodegenerative 
+diseases (NeuroMMSig): A web server for mechanism enrichment](https://doi.org/10.1093/bioinformatics/btx399). 
+Bioinformatics, 33(22), 3679–3681.
